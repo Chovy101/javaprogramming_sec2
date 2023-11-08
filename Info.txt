@@ -1,0 +1,5 @@
+Student_id : 2313110666
+Student name : Reaw
+Major : IT
+Level : 1
+Faculty : Information Technology
