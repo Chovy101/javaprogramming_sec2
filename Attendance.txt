@@ -1,4 +1,4 @@
 Id : 2313110666
 Name-Surname : Thavin Suwanklang
-Date : Dec-27-2023
-Topic : Array and Array Method
+Date : Jan-09-2024
+Topic : Class and Object
